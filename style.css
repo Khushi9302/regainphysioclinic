@@ -6,6 +6,10 @@ body{
     background-color: #EFFFFD;
 }
 
+.nav-item{
+    max-width: 540px;
+}
+
 .button{
     background-color: #03045E;
 }
